@@ -5,9 +5,9 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=reduxt)
+![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
-![Redux](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html)
+![Redux](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=html)
 ![Redux](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=sass)
 
 ## Мои работы:
