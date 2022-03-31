@@ -1,4 +1,3 @@
-
 ## Привет меня зовут Макисм я Frontend Developer
 
 ## Languages and Tools
