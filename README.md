@@ -8,7 +8,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
 
 ## Мои работы:
-* Каталог еды и рецептов [##код](https://github.com/maks-ru/food-project) | [##демо](https://maks-ru.github.io/food-project/)
+* Каталог еды и рецептов [код](https://github.com/maks-ru/food-project) | [демо](https://maks-ru.github.io/food-project/)
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/mrezlyakov)
