@@ -1,4 +1,4 @@
-![Header](https://github.com/maks-ru/maks-ru/blob/main/assets/maks.jpg)
+![Header](https://github.com/maks-ru/maks-ru/blob/master/assets/maks.jpg)
 
 ## Я Frontend Developer
 
