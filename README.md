@@ -3,8 +3,8 @@
 ## Я Frontend Developer
 
 ## Мои проекты:
-## Food project[Food Project](https://maks-ru.github.io/food-project/)
-## Portfolio[Portfolio](https://portfolio-maks-ru.vercel.app/)
+## [Food Project](https://maks-ru.github.io/food-project/)
+## [Portfolio](https://portfolio-maks-ru.vercel.app/)
 
 ## Languages and Tools
 
