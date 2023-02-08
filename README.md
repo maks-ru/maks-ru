@@ -2,6 +2,10 @@
 
 ## Я Frontend Developer
 
+## Мои проекты:
+## Food project[Food Project](https://maks-ru.github.io/food-project/)
+## Portfolio[Portfolio](https://portfolio-maks-ru.vercel.app/)
+
 ## Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
