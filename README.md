@@ -4,7 +4,7 @@
 
 ## Мои проекты:
 ## [Food Project](https://maks-ru.github.io/food-project/)
-## [Portfolio](https://portfolio-maks-ru.vercel.app/)
+## [Portfolio](https://portfolio-lovat-zeta-71.vercel.app/)
 
 ## Languages and Tools
 
